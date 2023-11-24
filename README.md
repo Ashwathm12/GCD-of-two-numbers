@@ -31,7 +31,7 @@ def gcd():
 ```
 
 ## Output:
-![out1](https://github.com/Ashwathm12/GCD-of-two-numbers/assets/138849225/e6ffee5d-cd5c-4e63-9662-123397055c3e)
+
 
 
 
